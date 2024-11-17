@@ -1,0 +1,13 @@
+html{
+    height: 100%;
+}
+div{
+    text-align: center;
+    padding: 30px;
+}
+
+img{
+    border-radius: 50%;
+    border: 4px solid rgb(4, 55, 78);
+    display: inline-block;
+}

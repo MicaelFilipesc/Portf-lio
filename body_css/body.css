@@ -1,0 +1,35 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    color: white;
+    background: linear-gradient(black, rgb(8, 8, 65));
+    font-family: Arial, Helvetica, sans-serif;
+}
+.information{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+div.pai{
+    display: flex;
+    justify-content: center;
+    margin: 1%;
+}
+div.em_linha{
+    background-color: rgb(4, 55, 78);
+    margin: 1%;
+    width: 30%;
+}
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+@media screen and (max-width: 768px){
+    em_linha{
+        width: 100%;
+    }
+}
+    
